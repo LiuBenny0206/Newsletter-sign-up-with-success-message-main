@@ -1,0 +1,79 @@
+body{
+    background-color: hsl(234, 29%, 20%);
+}
+
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 50px;
+    color: hsl(234, 29%, 20%);
+    
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: hsl(234, 29%, 20%);
+}
+
+button {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    height: 55px;
+    margin-top: 20px;
+    color: white;
+    background-color: hsl(234, 29%, 20%);
+    border-radius: 5px;
+    border: 0px;
+
+}
+
+.mainpart{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 0px 50px;
+    background-color: white;
+    border-radius: 5%;
+    height: 500px;
+    width: 400px;
+}
+
+.upperpart{
+    justify-content: center;
+}
+
+.downpart{
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    color: hsl(0, 0%, 100%); 
+
+}
+.attribution a { 
+    color: hsl(0, 0%, 100%); 
+}
