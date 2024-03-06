@@ -43,13 +43,6 @@ button {
     width: 400px;
 }
 
-.upperpart{
-    justify-content: center;
-}
-
-.downpart{
-    margin: 0 auto;
-}
 
 
 
@@ -76,4 +69,34 @@ button {
 }
 .attribution a { 
     color: hsl(0, 0%, 100%); 
+}
+
+@media (max-width: 375px) {
+    body{
+        background-color: hsl(0, 0%, 100%);
+    }
+
+    .mainpart{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin: 0 auto;
+        margin-top: 50px;
+        background-color: white;
+        border-radius: 0%;
+        height: 800px;
+        width: 300px;
+    }
+    button {
+        font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        height: 55px;
+        margin-top: 200px;
+        color: white;
+        background-color: hsl(234, 29%, 20%);
+        border-radius: 5px;
+        border: 0px;
+    
+    }
+    
 }
