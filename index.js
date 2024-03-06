@@ -8,7 +8,8 @@ document.getElementById('emailForm').addEventListener('submit', function(event) 
         emailInput.style.borderColor = 'rgb(236, 41, 41)';
     } else {
         console.log("Form is valid, redirecting...");
-        location.href = 'signupsuccess.html';
+        window.location.href = "signupsuccess.html";
+        return false;
     }
 });
 

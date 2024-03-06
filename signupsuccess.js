@@ -15,5 +15,6 @@ dismissButton.addEventListener('mouseover' , handleMouseOver);
 dismissButton.addEventListener('mouseout', handleMouseOut);
 
 dismissButton.onclick = function(){
-    location.href = 'index.html';
+    window.location.href = "index.html";
+    return false;
 };
