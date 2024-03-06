@@ -1,6 +1,8 @@
 # Frontend Mentor - Newsletter sign-up form with success message
 
-![Design preview for the Newsletter sign-up form with success message coding challenge](./design/desktop-preview.jpg)
+<img width="1440" alt="截圖 2024-03-06 15 49 37" src="https://github.com/LiuBenny0206/Newsletter-sign-up-with-success-message-main/assets/109209156/65cb565e-2c40-4724-ba1b-f4c02bebdbc5">
+<img width="1440" alt="截圖 2024-03-06 15 49 49" src="https://github.com/LiuBenny0206/Newsletter-sign-up-with-success-message-main/assets/109209156/2c3bac43-ad74-4f50-8a91-cf8e681632ea">
+
 
 ## Welcome! 👋
 
