@@ -1,6 +1,5 @@
 document.getElementById('emailForm').addEventListener('submit', function(event) {
     var emailInput = document.getElementById('userEmail');
-    var errorSpan = document.getElementById('emailError');
 
     // 检查邮箱是否有效
     if (emailInput.validity.valid) {
